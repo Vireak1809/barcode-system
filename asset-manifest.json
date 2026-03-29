@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.3bb22089.js",
-    "static/js/453.1fa364e9.chunk.js": "/static/js/453.1fa364e9.chunk.js",
-    "index.html": "/index.html",
-    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.3bb22089.js.map": "/static/js/main.3bb22089.js.map",
-    "453.1fa364e9.chunk.js.map": "/static/js/453.1fa364e9.chunk.js.map"
+    "main.css": "/barcode-system/static/css/main.e6c13ad2.css",
+    "main.js": "/barcode-system/static/js/main.1e2a9a4c.js",
+    "static/js/453.1fa364e9.chunk.js": "/barcode-system/static/js/453.1fa364e9.chunk.js",
+    "index.html": "/barcode-system/index.html",
+    "main.e6c13ad2.css.map": "/barcode-system/static/css/main.e6c13ad2.css.map",
+    "main.1e2a9a4c.js.map": "/barcode-system/static/js/main.1e2a9a4c.js.map",
+    "453.1fa364e9.chunk.js.map": "/barcode-system/static/js/453.1fa364e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.3bb22089.js"
+    "static/js/main.1e2a9a4c.js"
   ]
 }
